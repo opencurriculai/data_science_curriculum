@@ -1,0 +1,26 @@
+
+ul li {
+    padding: 0;
+  }
+
+.md-content {
+    min-width: 40rem;
+  }
+
+div.image-view__overlay {
+    padding: 10rem;
+  }
+
+h1 {
+  color: black
+}
+
+
+#mc_embed_signup h2 {
+  font: Roboto;
+  font-size: 50em;
+}
+
+#mc-embedded-subscribe-form {
+  padding: 0 0 0 0
+}

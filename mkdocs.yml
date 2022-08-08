@@ -1,0 +1,55 @@
+site_name: Open Curriculai
+theme:
+  name: material
+  logo: assets/images/library_logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.sections
+  palette:
+    scheme: default
+    primary: teal
+plugins:
+  - mkdocstrings
+extra_css: [extra.css]
+# watch:
+#   - . 
+markdown_extensions:
+  - admonition
+  - meta
+  - attr_list
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - search
+nav:
+  - Home: 
+    - Open Curriculai: "index.md"
+    - Curriculum: "Curriculum.md"
+    - Resource Hub: "resource_hub/index.md"
+    - Contributing: "CONTRIBUTING.md"
+    - About: "about.md"
+  - Curriculum: "Curriculum.md"
+  - Resource Hub:
+    - Overview: "resource_hub/index.md"
+    - Computer Science: "resource_hub/computer_science/index.md"
+    - Math: "resource_hub/math/index.md"
+    - Machine Learning: "resource_hub/machine_learning/index.md"
+    - Deep Learning: "resource_hub/deep_learning/index.md"
+    - Data Engineering: "resource_hub/data_engineering/index.md"
+    - Tool Tutorials: "resource_hub/tool_tutorials/index.md"
+    - Career: "resource_hub/career/index.md"
+    - Social: "resource_hub/social/index.md"
+    - Meta Learning: "resource_hub/meta_learning/index.md"
+    - Other Curations: "resource_hub/other_curations/index.md"
+  - Contributing: "CONTRIBUTING.md"
+  - About: "about.md"
+
+
+
