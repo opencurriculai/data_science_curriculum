@@ -4,8 +4,8 @@
 
 <!-- ???+ question "What is the vision behind the Open Data Science Curriculum?" -->
 
-The vision of this initiative is to help solve the problems discussed in the [problems and challenges with learning data science in 2022](../Curriculum) section.
-This curriculum is a very basic first step towards that goal.
+The vision of this initiative is to help solve the problems discussed in the [challenges with learning data science in 2022](../curriculum) section.
+This curriculum is a first step towards that goal.
 
 ### Short Term
 
@@ -87,7 +87,7 @@ If you're interested in helping out, have ideas about how to solve the issues, o
 
     Yes! Absolutely. This is one of the reasons why the cirruclum is on GitHub.
 
-    There are two areas where you can make a resource request: 1. The curriculum, 2. The Resource Hub. Read about how you can contribute [here](CONTRIBUTING.md).
+    There are two areas where you can make a resource request: 1. The curriculum, 2. The Resource Hub. Read about how you can contribute [here](contributing.md).
 
     That said, there is no guarantee that the content you submit will be approved. To keep a high level of quality of the project, and to avoid linking to too many resources, a detailed review of the content submitted will be done to either reject or accept it.  
 

@@ -1,10 +1,10 @@
 site_name: Open Curriculai
 theme:
   name: material
-  logo: assets/images/library_logo.svg
+  logo: assets/images/logo_teal_svg.svg
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.tracking
     - navigation.sections
   palette:
@@ -31,11 +31,15 @@ plugins:
 nav:
   - Home: 
     - Open Curriculai: "index.md"
-    - Curriculum: "Curriculum.md"
+    - Curriculum: "curriculum.md"
     - Resource Hub: "resource_hub/index.md"
-    - Contributing: "CONTRIBUTING.md"
+    - Contributing: "contributing.md"
     - About: "about.md"
-  - Curriculum: "Curriculum.md"
+  - Curriculum: 
+    - Curriculum: "curriculum.md"
+    - Resource Hub: "resource_hub/index.md"
+    - Contributing: "contributing.md"
+    - About: "about.md"
   - Resource Hub:
     - Overview: "resource_hub/index.md"
     - Computer Science: "resource_hub/computer_science/index.md"
@@ -48,7 +52,7 @@ nav:
     - Social: "resource_hub/social/index.md"
     - Meta Learning: "resource_hub/meta_learning/index.md"
     - Other Curations: "resource_hub/other_curations/index.md"
-  - Contributing: "CONTRIBUTING.md"
+  - Contributing: "contributing.md"
   - About: "about.md"
 
 

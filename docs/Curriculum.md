@@ -2,11 +2,11 @@
 
 ## Overview
 
-The curriculum presented here curates and organizes resources covering all core aspects of data science. It also includes content on how to learn effectively, mentions of influencers to follow, conferences to attend, links to important books, blogposts, videos, Youtube channels, and encourages one to learn & collaborate with a community of students by means of its own :fontawesome-brands-discord: Discord channel or through joining other existing communities.
+The curriculum presented here curates and organizes resources covering all core aspects of data science. It also includes content on how to learn effectively, mentions of influencers to follow, conferences to attend, links to important books, blogposts, videos, Youtube channels, and encourages one to learn & collaborate with a community of students by means of its own [:fontawesome-brands-discord: Discord channel](https://discord.gg/cfgtzBwDXR) or through joining other existing communities.
 
 Visit the [Resource Hub](/resource_hub) for complementary material. 
 
-Our content is regularly updated. Read about how you can contribute [here](CONTRIBUTING.md).
+Our content is regularly updated. Read about how you can contribute [here](contributing.md).
 
 !!! info "The challenges of learning data science"
 
@@ -31,7 +31,7 @@ Our content is regularly updated. Read about how you can contribute [here](CONTR
     - Make it easy to find like-minded individuals to connect, study or work with by joining the community.
     - Encourage people to develop skills such as public speaking, writing, creating presentations, and leadership.
 
-For more information, make sure to read the [FAQ in the About page](about.md).
+For more information, make sure to read the [the About page](about.md).
 
 ## Learning Path Example
 
@@ -252,7 +252,7 @@ In addition to all of the above, we suggest doing the following:
 - Attend conferences. One we highly suggest going to is [Pycon](https://pycon.org/), even if that means spending a bit of money to attend and travelling to a host city. The value you'll get from it will be worth it in our experience. It is a way for you to be inspired by all that is happening in the world of Python, engineering, and machine learning. Alternatively, you can get an online only ticket for cheaper.
 - Participate in a Kaggle competition. Find a competition you're interested in joining - look for ones that are currently open/soon to open. Find teammates to work with, and start coding! Visit the Code section of the competition to read other competitor's notebooks. There are always people sharing interesting work.
 - Participate in Hackathons. Keep an eye out for these events happening in your city, or look on meetup.com to find them.
-- Actively look for and join communities on Reddit, Discord, and Slack. For instance, subscribe to Reddit's /r/learnmarchinelearning and /r/machinelearning subreddits. Join discord servers to find study groups so that you're not learning alone.
+- Actively look for and join communities on Reddit, Discord, and Slack. For instance, subscribe to Reddit's /r/learnmarchinelearning and /r/machinelearning subreddits. Join discord servers to find study groups so that you're not learning alone. Here's the link to our community's [:fontawesome-brands-discord: Discord](https://discord.gg/cfgtzBwDXR)
 - Put yourself out there and start writing! Create a personal blog and write articles about what you learned. Your target audience should be people in the same situation you were in 6 months / 1 year ago. 
 - Find a meetup group and ask if you can present a subject you've been working on. Do the same within a bunch of different study groups. This will help your oral presentation skills.
 - Keep an eye out for recruiting events in your area. Companies are always participating in these events.
@@ -274,7 +274,7 @@ As a rule of thumb, you can be sure to trust the quality of the following conten
 - 3Blue1Brown for math.
 
 
-If you want to help improve the curriculum and think you have a good resource to share, read about how you can contribute [here](CONTRIBUTING.md).
+If you want to help improve the curriculum and think you have a good resource to share, read about how you can contribute [here](contributing.md).
 
 !!! info "**Disclaimer"
 

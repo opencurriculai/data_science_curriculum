@@ -1,40 +1,22 @@
 
 
-<!-- ![tree_logo](/assets/images/library_logo_2.JPG){ align=left width="60" } -->
+![logo](/assets/images/logo_transparent.PNG){ align=left width="70" }
 
 <!-- <div style="margin: 0 0 0 0; margin-block-end: 0em; margin-bottom: -2.5em; color: #000000"> -->
 # Open Curriculai
-<!-- </div> -->
-
-<!-- <div style="margin-block-start: 0em;">
-</div> -->
 
 Welcome to Open Curriculai, an opinionated, constantly evolving, organized curation of top resources in the form of a curriculum and a resource hub, for people whose goal is to become a data scientist. It is intended to be a **complete education in data science** using online materials and a holistic approach to learning.
-<!-- 
-!!! info "Chinese Proverb"
 
-    “The best time to plant a tree was 20 years ago. The second best time is now.”
-
-     -->
+We help you take responsibility of for our own learning.
 
 
-<!-- ![Chinese Proverb](/assets/images/chinese_proverb.PNG) -->
-
-<!-- !!! info "" -->
-
-<!-- The best time to learn data science was at university. The second best time is now. -->
-
-Take responsibility of for our own learning.
-
-
-
-[View the Curriculum](Curriculum.md){ .md-button .md-button--primary} [View the Resource Hub](resource_hub/index.md){ .md-button }
+[View the Curriculum](curriculum.md){ .md-button .md-button--primary} [View the Resource Hub](resource_hub/index.md){ .md-button }
 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Roboto,Arial,sans-serif;  width:600px;}
+    #mc_embed_signup{background:#fff; clear:left; font:16px Roboto,Arial,sans-serif;  width:550px;}
     #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
     #mc_embed_signup .button{background-color:#009485; border-radius:0.1em}
     #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
@@ -85,13 +67,13 @@ Take responsibility of for our own learning.
 
 Join our Discord :fontawesome-brands-discord: server to become part of a community of learners. Ask questions about different course options, where you should start or a topic you are struggling to grasp.
 
-[Join the Discord Community](#){ .md-button .md-button--primary}
+[Join the Discord Community](https://discord.gg/cfgtzBwDXR){ .md-button .md-button--primary}
 
 ## Contribute
 
 !!! info "We incourage you to contribute in any way you want"
 
     1. ⭐ Star our [GitHub](#) repo
-    2. ✍️ [Contribute to the Curriculum or the Resource Hub](/CONTRIBUTING.md)
+    2. ✍️ [Contribute to the Curriculum or the Resource Hub](/contributing.md)
     3. :newspaper: Subscribe to get updates about newly added content
     4. :material-share-variant: Share the curriculum to your friends & network 
