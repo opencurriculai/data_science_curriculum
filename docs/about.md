@@ -1,5 +1,10 @@
+---
+hide:
+  - navigation
+#   - toc
+---
 
-![contributing panda](/assets/images/studying_pandas.png){ align=right width="250" }
+![contributing panda](/assets/images/studying_pandas.png){ align=right width="370" }
 
 # About
 

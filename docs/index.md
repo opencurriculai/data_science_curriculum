@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+#   - toc
+---
+
 ![logo](/assets/images/logo_transparent.PNG){ align=left width="70" }
 
 <!-- <div style="margin: 0 0 0 0; margin-block-end: 0em; margin-bottom: -2.5em; color: #000000"> -->
