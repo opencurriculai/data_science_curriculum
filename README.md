@@ -1,9 +1,7 @@
-# Open Curricula
+# Open Curriculai
 
 ## Overview
 
-This repository contains all files used to create <link-to-website>.
+This repository contains all files used to create [www.opencurrcul.ai](www.opencurrcul.ai).
 
-## Contributing
-
-...
+All information related to this project can be found on the site.

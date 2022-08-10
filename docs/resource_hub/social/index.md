@@ -1,5 +1,6 @@
 # Social
 
+List of interesting people to follow, newsletters and websites to start getting interesting AI content pushed to you. 
 
 ## LinkedIn
 
@@ -17,15 +18,14 @@ Name | Description
 
 Name | Description
 :-- | :--
-[:material-twitter: @haltakov](https://twitter.com/haltakov)
-[:material-twitter: @josh_tobin_](https://twitter.com/josh_tobin_) | Creator of Full Stack Deep Learning, Co-founder @gantry_ml, ex @openai
-[:material-twitter: @sergeykarayev](https://twitter.com/sergeykarayev) | Creator of Full Stack Deep Learning, Co-founder @Gradescope
-[:material-twitter: @ilyasut](https://twitter.com/ilyasut) | Co-founder of @openai
-[:material-twitter: @huggingface](https://twitter.com/huggingface) | Biggest open source deep learning library and community
 [:material-twitter: @ylecun](https://twitter.com/ylecun) | Professor at NYU. Chief AI Scientist at Meta. ACM Turing Award Laureate
 [:material-twitter: @karpathy](https://twitter.com/karpathy) | Previously Director of AI at Tesla, OpenAI, CS231n, PhD @ Stanford
 [:material-twitter: @fchollet](https://twitter.com/fchollet) | Deep learning @google. Creator of Keras. Author of 'Deep Learning with Python'
 [:material-twitter: @chrmanning](https://twitter.com/chrmanning) | Director, @StanfordAILab. Prof. Computer Science (CS) & Linguistics, @Stanford
+[:material-twitter: @josh_tobin_](https://twitter.com/josh_tobin_) | Creator of Full Stack Deep Learning, Co-founder @gantry_ml, ex @openai
+[:material-twitter: @sergeykarayev](https://twitter.com/sergeykarayev) | Creator of Full Stack Deep Learning, Co-founder @Gradescope
+[:material-twitter: @ilyasut](https://twitter.com/ilyasut) | Co-founder of @openai
+[:material-twitter: @huggingface](https://twitter.com/huggingface) | Biggest open source deep learning library and community
 [:material-twitter: @ch402](https://twitter.com/ch402) | Reverse engineering neural networks at @AnthropicAI. Previously @distillpub, OpenAI
 [:material-twitter: @joshuastarmer](https://twitter.com/joshuastarmer) | Creator of StatQuest videos
 [:material-twitter: @lexfridman](https://twitter.com/lexfridman) | Host of Lex Fridman Podcast. Research Scientist at MIT
@@ -36,6 +36,7 @@ Name | Description
 [:material-twitter: @julien_c](https://twitter.com/julien_c) | Co-founder and CTO at @huggingface🤗
 [:material-twitter: @OpenAI](https://twitter.com/OpenAI) | OpenAI’s mission is to ensure that AGI benefits all of humanity
 [:material-twitter: @ykilcher](https://twitter.com/ykilcher) | ML news and paper explanations
+[:material-twitter: @haltakov](https://twitter.com/haltakov) | Makes complicated topics easy to understand
 
 ## YouTube
 
@@ -47,16 +48,15 @@ Name | Description
 [:material-youtube: YannicKilcher](https://www.youtube.com/c/YannicKilcher) | Machine learning research papers, news, programming, and issues of the AI community, and the broader impact of AI in society.
 [:material-youtube: ArjanCodes](https://www.youtube.com/c/ArjanCodes) | Programming and software design to help you take your coding skills to the next level
 
-
 ## Newsletters
 
 Name | Description
 :-- | :--
-[:newspaper: Data Science Weekly](https://www.datascienceweekly.org/)
-[:newspaper: Andriy Burkov](https://aiweekly.substack.com/)
-[:newspaper: The Batch](https://read.deeplearning.ai/the-batch/)
-
-
+[:newspaper: Data Science Weekly](https://www.datascienceweekly.org/) | A free weekly newsletter of Data Science articles, news, tools, libraries, and cool projects
+[:newspaper: Andriy Burkov](https://aiweekly.substack.com/) | Links to news, resources, books, tutorials, papers. Succinct newletter. No BS.
+[:newspaper: The Batch](https://read.deeplearning.ai/the-batch/) | Newsletter covering AI news and succinctly summaries articles.
+[:newspaper: The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/) | A newsletter that talks about how AI impacts society. AI Ethics.
+ 
 ## Websites
 
 Name | Description

@@ -27,7 +27,6 @@ Title | Description & Context | Source
 [How to interpret R-squared](https://statisticsbyjim.com/regression/interpret-r-squared-regression/) | What is R-square and how to interpret it | Statistics by Jim
 [Probability Density and Probability Mass Functions](https://hadrienj.github.io/posts/Essential-Math-probability-distributions/) | Explanations, visuals, and code to learn about the topic | hadrienj's blog
 
-
 ## Linear Algebra
 
 For all basic Linear Algebra concepts, refer to 3blue1brown's Essence of linear algebra series.
@@ -36,11 +35,10 @@ Title | Description & Context | Source
 :-- | :--: | :--:
 [Principal Component Analysis 4 Dummies: Eigenvectors, Eigenvalues and Dimension Reduction](https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/) | Intuition of how PCA works | George Dallas
 
-
 ## Calculus
 
 For all basic Calculus concepts, refer to 3blue1brown's Essence of Calculus series.
 
-
 Title | Description & Context | Source
 :-- | :--: | :--:
+[The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) | No math knowledge is assumed beyond what you learned in calculus 1 | explained.ai

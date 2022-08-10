@@ -1,13 +1,12 @@
 # Overview
 
-Explore other roadmaps, curriculums, and resource lists to get a better overview of what's available online.
+Explore other roadmaps, curricula, and resource lists to get a better overview of what's available online.
 
 ## Computer Science
 
 Title | Description & Context | Source
 :-- | :--: | :--:
 [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science) | Complete curriculum in Computer Science - All resources are free | OSSU
-
 
 ## Machine Learning
 
@@ -19,6 +18,8 @@ Title | Description & Context | Source
 
 ## Deep Learning
 
+Title | Description & Context | Source
+:-- | :--: | :--:
 [Deep Learning Curriculum](https://github.com/jacobhilton/deep_learning_curriculum) | Curriculum to go deeper in Deep Learning (Advanced) | jacobhilton (Github)
 
 ## Data Engineering
@@ -26,3 +27,9 @@ Title | Description & Context | Source
 Title | Description & Context | Source
 :-- | :--: | :--:
 [Data Engineering Wiki](https://dataengineering.wiki/Learning+Resources) | A collection of recommended resources by other Data Engineers | Data Engineering Wiki
+
+## MLOps
+
+Title | Description & Context | Source
+:-- | :--: | :--:
+[Awesome MLOps](https://github.com/visenger/awesome-mlops) | Articles, books, papers, communities, talks, etc around MLOps

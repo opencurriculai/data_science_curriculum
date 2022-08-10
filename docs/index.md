@@ -1,5 +1,3 @@
-
-
 ![logo](/assets/images/logo_transparent.PNG){ align=left width="70" }
 
 <!-- <div style="margin: 0 0 0 0; margin-block-end: 0em; margin-bottom: -2.5em; color: #000000"> -->
@@ -7,11 +5,11 @@
 
 Welcome to Open Curriculai, an opinionated, constantly evolving, organized curation of top resources in the form of a curriculum and a resource hub, for people whose goal is to become a data scientist. It is intended to be a **complete education in data science** using online materials and a holistic approach to learning.
 
+![logo](/assets/images/panda_on_laptop.png){ align=right width="250" }
+
 We help you take responsibility of for our own learning.
 
-
 [View the Curriculum](curriculum.md){ .md-button .md-button--primary} [View the Resource Hub](resource_hub/index.md){ .md-button }
-
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
@@ -51,7 +49,6 @@ We help you take responsibility of for our own learning.
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-
 ### Target Audience
 
 ???+ question "Who is this for?"
@@ -61,7 +58,6 @@ We help you take responsibility of for our own learning.
     :white_check_mark: People seeking a career change, or that want to apply data science in their current role.
 
     :white_check_mark: Experienced practitionners looking to refine a specific skill, or that are in search of high quality content.
-
 
 ## Community & Learning Together
 

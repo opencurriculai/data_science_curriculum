@@ -1,5 +1,8 @@
 # Contributing
 
+![contributing panda](/assets/images/contributing_panda.png){ align=right width="250" }
+
+
 Thank you for wanting to contribute! Open Curriculai would love your help to improve its coverage, quality and usefulness. We value contributions both to the Curriculum and to the Resource Hub.
 You can contribute by either sending a pull request, or creating an issue.
 

@@ -1,5 +1,7 @@
 # Overview
 
+List of resources to learn about learning. More to come very soon.
+
 ## Learning Concepts
 
 ??? "Chunking - People remember grouped information better"
@@ -8,7 +10,7 @@
 
     Refers to an approach for making more efficient use of short-term memory by grouping information. Chunking breaks up lon strings of information into units or chunks. The resulting chunks are easier to commit to memeory than a longer uninterrupted string of information.
 
-??? "Active Recall - Actively stimulate your memory for a piece of information.
+??? "Active Recall - Actively stimulate your memory for a piece of information"
 
     In opposition to passive review - when you read (and re-read) your textbook and highlighting the important information - active recall helps your brain solidify what its learned. 
 
@@ -23,3 +25,7 @@
     Interleaving is a learning technique that involves mixing together different topics or forms of practice, in order to facilitate learning.
 
     No matter how good a given resource is, it’s only when we sneak off and look at other material that we begin to see that what we learn through a single teacher or book is a partial version of the full, three-dimensional reality of the subject.
+
+## Resources
+
+Coming soon.

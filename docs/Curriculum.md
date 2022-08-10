@@ -1,12 +1,12 @@
-# Data Science Curriculum
+![studying panda](assets/images/studying_panda.png){ align=right width="180" }
+
+<h1 style="padding-bottom: 0.5em">Data Science Curriculum</h1>
 
 ## Overview
 
 The curriculum presented here curates and organizes resources covering all core aspects of data science. It also includes content on how to learn effectively, mentions of influencers to follow, conferences to attend, links to important books, blogposts, videos, Youtube channels, and encourages one to learn & collaborate with a community of students by means of its own [:fontawesome-brands-discord: Discord channel](https://discord.gg/cfgtzBwDXR) or through joining other existing communities.
 
-Visit the [Resource Hub](/resource_hub) for complementary material. 
-
-Our content is regularly updated. Read about how you can contribute [here](contributing.md).
+Visit the [Resource Hub](/resource_hub) for complementary material on all topics.
 
 !!! info "The challenges of learning data science"
 
@@ -18,7 +18,7 @@ Our content is regularly updated. Read about how you can contribute [here](contr
     - Data science is a mix of math, programming, and domain knowledge. How do you know when enough math is enough, or how much software engineering knowledge is needed to get hired?
     - Bootcamps inaccurately make the promise that their students will get hired right after graduating. In most cases, this is only true for people with programming or mathematical backgrounds prior to enrolling. With that in mind, what steps should be taken prior and after taking a bootcamp?
 
-!!! info "Objectives of Open Curricula"
+!!! info "Objectives of Open Curriculai"
 
     The content presented here is an attempt and a first iteration to help people get a better grasp as to how to navigate difficulties mentioned above. Open curricula refers to the fact that the initiative is open source, and that everyone has their optimal cirrculum to follow - hence the plural form of the word "Curriculum". 
     
@@ -31,7 +31,7 @@ Our content is regularly updated. Read about how you can contribute [here](contr
     - Make it easy to find like-minded individuals to connect, study or work with by joining the community.
     - Encourage people to develop skills such as public speaking, writing, creating presentations, and leadership.
 
-For more information, make sure to read the [the About page](about.md).
+For more information, make sure to read the [About page](about.md).
 
 ## Learning Path Example
 
