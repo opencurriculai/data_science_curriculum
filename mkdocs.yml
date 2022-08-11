@@ -1,4 +1,10 @@
 site_name: Open Curriculai
+site_url: https://www.opencurricul.ai
+site_author: Julien Beaulieu
+
+repo_name: opencurriculai/data_science_curriculum
+repo_url: https://github.com/opencurriculai/data_science_curriculum
+
 theme:
   name: material
   logo: assets/images/logo_teal_svg.svg
@@ -12,7 +18,7 @@ theme:
     primary: teal
 plugins:
   - mkdocstrings
-extra_css: [extra.css]
+extra_css: [assets/css/extra.css]
 # watch:
 #   - . 
 markdown_extensions:
