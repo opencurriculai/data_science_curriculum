@@ -12,7 +12,7 @@ hide:
 Thank you for wanting to contribute! Open Curriculai would love your help to improve its coverage, quality and usefulness. We value contributions both to the Curriculum and to the Resource Hub.
 You can contribute by either sending a pull request, or creating an issue.
 
-If you're new to Github :octicons-mark-github-16:, read these two links - [pull requests](https://github.com/firstcontributions/first-contributions), issues - to understand how to create them, and what their difference is.
+If you're new to Github :octicons-mark-github-16:, read these two links - [pull requests](https://github.com/firstcontributions/first-contributions), [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - to understand how to create them, and what their difference is.
 
 Please use pull requests for minor changes such a typos, spelling errors, a missing URL link, etc.
 
@@ -24,7 +24,7 @@ Submit an issue if you would like to:
 
 You are invited to read and participate to issues and pull requests by responding to proposals and comments.
 
-[Create a Pull Request](#){ .md-button .md-button--primary  } [Create an issue](#){ .md-button }
+[Create a Pull Request](https://github.com/opencurriculai/data_science_curriculum/pulls){ .md-button .md-button--primary  } [Create an issue](https://github.com/opencurriculai/data_science_curriculum/issues){ .md-button }
 
 ## Contributing Guidelines
 
