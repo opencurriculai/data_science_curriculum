@@ -4,14 +4,14 @@ hide:
 #   - toc
 ---
 
-![logo](/assets/images/logo_transparent.PNG){ align=left width="70" }
+![logo](/assets/images/logo_transparent.png){ align=left width="70" }
 
 <!-- <div style="margin: 0 0 0 0; margin-block-end: 0em; margin-bottom: -2.5em; color: #000000"> -->
 # Open Curriculai
 
 Welcome to Open Curriculai, an opinionated, constantly evolving, organized curation of top resources in the form of a curriculum and a resource hub, for people whose goal is to become a data scientist. It is intended to be a **complete education in data science** using online materials and a holistic approach to learning.
 
-![logo](/assets/images/panda_on_laptop.png){ align=right width="250" }
+![panda on laptop](/assets/images/panda_on_laptop.png){ align=right width="250"} 
 
 We help you take responsibility of for our own learning.
 
@@ -75,7 +75,7 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
 
 !!! info "We incourage you to contribute in any way you want"
 
-    1. ⭐ Star our [GitHub](#) repo
+    1. ⭐ Star our [GitHub](https://github.com/opencurriculai/data_science_curriculum) repo
     2. ✍️ [Contribute to the Curriculum or the Resource Hub](/contributing.md)
     3. :newspaper: Subscribe to get updates about newly added content
     4. :material-share-variant: Share the curriculum to your friends & network 

@@ -19,14 +19,14 @@ theme:
 plugins:
   - mkdocstrings
 extra_css: [assets/css/extra.css]
-# watch:
-#   - . 
 markdown_extensions:
   - admonition
   - meta
   - attr_list
   - pymdownx.details
   - pymdownx.critic
+  - md_in_html
+  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
@@ -34,6 +34,15 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 plugins:
   - search
+extra:
+  analytics:
+    provider: google
+    property: G-88C824C820
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/opencurriculai/data_science_curriculum
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/cfgtzBwDXR
 nav:
   - Home: 
     - Open Curriculai: "index.md"

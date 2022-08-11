@@ -32,6 +32,12 @@ Title | Description & Context | Source
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | :orange_book: Book to learn about everything related to machine learning interpretation | Christoph Molnar
 [Explanable AI Cheatsheet](https://ex.pegg.io/) | Visual of what intepretation technique to choose depending on goal | Jay Alammar
 
+## Timeseries
+
+Title | Description & Context | Source
+:-- | :--: | :--:
+[Time Series Prediction: How Is It Different From Other Machine Learning?](https://neptune.ai/blog/time-series-prediction-vs-machine-learning) | Detailed explanation & intro to timeseries forecasting | Neptune.ai
+
 ## NLP
 
 Title | Description & Context | Source
