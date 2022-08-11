@@ -1,4 +1,4 @@
-![studying panda](assets/images/studying_panda.png){ align=right width="180" }
+![studying panda](assets/images/studying_panda_400.png){ align=right width="180" }
 
 <h1 style="padding-bottom: 0.5em">Data Science Curriculum</h1>
 

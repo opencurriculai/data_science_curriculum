@@ -6,7 +6,7 @@ hide:
 
 # Contributing
 
-![contributing panda](/assets/images/contributing_panda.png){ align=right width="300" }
+![contributing panda](/assets/images/contributing_panda_400.png){ align=right width="300" }
 
 
 Thank you for wanting to contribute! Open Curriculai would love your help to improve its coverage, quality and usefulness. We value contributions both to the Curriculum and to the Resource Hub.

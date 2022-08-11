@@ -4,7 +4,7 @@ hide:
 #   - toc
 ---
 
-![contributing panda](/assets/images/studying_pandas.png){ align=right width="370" }
+![contributing panda](/assets/images/studying_pandas_400.png){ align=right width="370" }
 
 # About
 

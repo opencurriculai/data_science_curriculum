@@ -8,7 +8,7 @@ hide:
 
 ## Overview
 
-![contributing panda](/assets/images/library_panda.png){ align=right width="320" }
+![contributing panda](/assets/images/library_panda_400.png){ align=right width="320" }
 
 Welcome to the Resource Hub. It's primary goal is to provide supporting content to the [curriculum](../curriculum.md) and help you consolidate what you learned by either giving you an alternative explanation, proposing a different format, or suggesting practice exerises. This is technique is called [interleaving or mixed practice](https://effectiviology.com/interleaving/#:~:text=Interleaving%20is%20a%2).
 
