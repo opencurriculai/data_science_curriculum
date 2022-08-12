@@ -63,7 +63,7 @@ We help you take responsibility of for our own learning.
 
     :white_check_mark: People seeking a career change, or that want to apply data science in their current role.
 
-    :white_check_mark: Experienced practitionners looking to refine a specific skill, or that are in search of high quality content.
+    :white_check_mark: Experienced practitioners looking to refine a specific skill, or that are in search of high-quality content.
 
 ## Community & Learning Together
 
@@ -73,9 +73,12 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
 
 ## Contribute
 
-!!! info "We incourage you to contribute in any way you want"
+![panda](/assets/images/traveling_panda.png){ align=right width="180" }
+
+!!! info "We encourage you to contribute in any way you want"
 
     1. ⭐ Star our [GitHub](https://github.com/opencurriculai/data_science_curriculum) repo
     2. ✍️ [Contribute to the Curriculum or the Resource Hub](/contributing.md)
     3. :newspaper: Subscribe to get updates about newly added content
     4. :material-share-variant: Share the curriculum to your friends & network 
+

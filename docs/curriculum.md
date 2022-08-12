@@ -1,4 +1,4 @@
-![studying panda](assets/images/studying_panda_400.png){ align=right width="180" }
+![studying panda](assets/images/studying_panda_400.png){ align=right width="240" }
 
 <h1 style="padding-bottom: 0.5em">Data Science Curriculum</h1>
 
@@ -11,7 +11,7 @@ Visit the [Resource Hub](/resource_hub) for complementary material on all topics
 !!! info "The challenges of learning data science"
 
     - There is an unfathomable amount of online resources & books from which to choose from. Where do you start your learning journey? What specific content should you look at? This decision should depend on the quality of the course/book you look at, but also on your current background, education and future goals.
-    - How do you know if the course/book you are about to engage in is of high quality? How do you choose between two or more seemlingly equivalent, highly rated courses?
+    - How do you know if the course/book you are about to engage in is of high quality? How do you choose between two or more seemingly equivalent, highly rated courses?
     - There is a lack of best in class, frequently updated, curated resources that organizes material found online into a long term learning plan that covers all aspects of data science.
     - A lot of popular curriculums only suggest content from their own platforms. The truth is, the best content on each subject comes from a variety of different sources and comes in many different formats.
     - Often times articles that curate resources suggest too many options from which to choose from. It often resembles a course dump, and it's up to the reader to "guess" which ones are the most relevant for them.
@@ -20,14 +20,14 @@ Visit the [Resource Hub](/resource_hub) for complementary material on all topics
 
 !!! info "Objectives of Open Curriculai"
 
-    The content presented here is an attempt and a first iteration to help people get a better grasp as to how to navigate difficulties mentioned above. Open curricula refers to the fact that the initiative is open source, and that everyone has their optimal cirrculum to follow - hence the plural form of the word "Curriculum". 
+    The content presented here is an attempt and a first iteration to help people get a better grasp as to how to navigate difficulties mentioned above. Open curricula refers to the fact that the initiative is open source, and that everyone has their optimal curriculum to follow - hence the plural form of the word "Curriculum". 
     
     __Main objectives__:
 
     - Inspire people who have never programmed but are interested in data science to take the leap and dive into the field. 
     - Assist anyone from total beginner, to bootcamp graduate, and everyone in between, to deepen their knowledge in the field so they can get hired as a data analyst, a data scientist, or a machine learning scientist.
-    - Attract experienced practitionners & teachers that are either looking for exceptional data science material or to help and mentor beginners.
-    - Incentivise people to discover and work on real world practical projects they are are passionate about.
+    - Attract experienced practitioners & teachers that are either looking for exceptional data science material or to help and mentor beginners.
+    - Incentivise people to discover and work on real world practical projects they are passionate about.
     - Make it easy to find like-minded individuals to connect, study or work with by joining the community.
     - Encourage people to develop skills such as public speaking, writing, creating presentations, and leadership.
 
@@ -67,19 +67,19 @@ Resources | Source | Format
     - Start with setting up your computer and installing the required tools to do data science effectively. Le Wagon's setup is well maintained and has clear step by step instructions.
     - For those new to programming, start with Harvard’s CS50’s introduction to programming with Python. David Malan is one of the pioneers of online teaching. His content and pedagogical approach is always stellar. This class is new and given for the first time in 2022.
     - For a real challenge, or for those already somewhat familiar with programming, look at CS50’s introduction to Computer Science from the same professor. The exercises are more involved and there is a focus on the C programming language instead of Python. That said, it covers more material and computer science concepts. If you're not taking this course, at least watch [lecture 0 - Scratch](https://www.youtube.com/watch?v=YoXxevp1WRQ) for its marvelous introduction to the field of computer science.
-    - Since you're about to engage in a long journey of continuous studying, make sure you understand the latest research and science around aquiring knowledge. Taking “Learning how to learn” on Coursera will yield immense benefits long term and give you a competitive advantage over your peers. The book on which the course is based on, “A Mind for Numbers”, and the brilliant “Pragmatic Thinking and Learning” are good complementary options too. For a quick summary of all three resources, refer to [this blogpost](https://julienbeaulieu.github.io/2020/05/25/lesser-known-facts-about-learning-how-to-get-better-at-studying/) or listen to [this podcast by Dr Paul Pen](https://podcasts.apple.com/gb/podcast/misjudgements-myths-in-learning-with-special-guest-dr/id1523840607?i=1000520771175) for an excellent overview of the subject.
+    - Since you're about to engage in a long journey of continuous studying, make sure you understand the latest research and science around acquiring knowledge. Taking “Learning how to learn” on Coursera will yield immense benefits long term and give you a competitive advantage over your peers. The book on which the course is based on, “A Mind for Numbers”, and the brilliant “Pragmatic Thinking and Learning” are good complementary options too. For a quick summary of all three resources, refer to [this blogpost](https://julienbeaulieu.github.io/2020/05/25/lesser-known-facts-about-learning-how-to-get-better-at-studying/) or listen to [this podcast by Dr Paul Pen](https://podcasts.apple.com/gb/podcast/misjudgements-myths-in-learning-with-special-guest-dr/id1523840607?i=1000520771175) for an excellent overview of the subject.
     - Start your data science journey with Udacity's Data Analyst Nanodegree. This is a great place to start to learn about statistics, probability, data wrangling, data visualization, etc.
 
 
 ### Core Data Science
 
-If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time)** is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model. This intensive bootcamp, also available part time, will give you the big picture of what data science encompases end to end: math theory, data wrangling, data visualization, programming inside an IDE, Git, machine learning, deep learning, and data engineering.
+If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time)** is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model. This intensive bootcamp, also available part time, will give you the big picture of what data science encompasses end to end: math theory, data wrangling, data visualization, programming inside an IDE, Git, machine learning, deep learning, and data engineering.
 
 If you’re not willing to spend as much money, you’re still in luck. Andrew Ng’s notorious [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning) just got updated! It covers more material than the its predecessor (neural nets are now included) and is a unique opportunity to get quality education for cheap. Take this course as well as Udacity’s data Analyst Nanodegree, and you’re guaranteed to start off with solid foundations.
 
 Next, check out Fastai's Introduction to Machine Learning for Coders. Our recommendation is to **just watching the first 6 lectures which focus on tree-based models**. The rest of the videos are on deep learning which is better covered in their more recent course listed below. Although this content is almost 5 years old, don’t let that discourage you from watching it: it is taught by one of the most respected data scientists in the world - [Jeremy Howard](https://www.linkedin.com/in/howardjeremy/?originalSubdomain=au) - and is full of gems.
 
-Pair the above with Andriy Burkov’s famous and succint The Hundred-Page Machine Learning Book, as well as Wes McKinney’s - creator of pandas library - book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online). One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
+Pair the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as Wes McKinney’s - creator of pandas library - book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online). One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
 
 **Topics covered**:
 `Data wrangling`
@@ -126,7 +126,7 @@ Resources | Source | Format
 !!! tip "Tips"
 
     - If you're struggling with any programming concept in Python, make sure you search for videos of Corey Schafer explaining the subject. His videos are always well-built, clear and enlightening.
-    - Familiarize yourself with common data structures and algorithms in Python with with Udacitys course which features practice exercises.
+    - Familiarize yourself with common data structures and algorithms in Python with Udacitys course which features practice exercises.
     - Complete HackerRank exercises to refine your Python skills with interview-style questions.
     - Once you’re comfortable with the basics of Python - that is to say, after at least 1 year of coding experience - you can slowly start reading Fluent Python for a deep dive on Python core language features and libraries. Note 1: Some of the later chapters are very advanced and optional. Note 2: Keep an eye out for the updated edition of the book which is coming soon.
     - If you still aren't comfortable with the shell, version control (Git) and debugging, watch the lectures from MIT's Missing Semester and do the exercises.
@@ -151,7 +151,7 @@ Resources | Source | Format
 [StatQuest - Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) ❤️ | Youtube | Videos
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | Videos & exercises
 [Linear Algebra 18.06 with Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) ❤️ | MIT | Videos & homework
-[Calculus 1 & 2](https://www.khanacademy.org/math/calculus-1) | Khan Academy | Videos & Math excercises
+[Calculus 1 & 2](https://www.khanacademy.org/math/calculus-1) | Khan Academy | Videos & Math exercises
 [The Learning Machine](https://the-learning-machine.com/article/math/overview) ❤️ | The Learning Machine | Online Book
 [Intro to Probability, Stats & Random Processes](https://www.probabilitycourse.com/) | Probability Course | Online Book
 
@@ -164,7 +164,7 @@ Resources | Source | Format
     - Delve deep into linear algebra with prof. Gilbert Strang's amazing lecture which has been viewed by millions before. Complement with exercises in [his book](http://math.mit.edu/~gs/linearalgebra/) (which includes solutions to the exercises). For a less in depth alternative, refer to Khan Academy.
     - The Learning Machine has great interactive visuals to help build your intuition for a lot of math concepts.
     - Intro to Prob/Stats has everything you'll need in the subject coupled with exercises and their solution, all in a very clear interface. 
-    - Don't forget to actually do the exercises and work on assigments. This is the only way you'll become good at math.
+    - Don't forget to actually do the exercises and work on assignments. This is the only way you'll become good at math.
     - Visit the [math Resource Hub section](/resource_hub/math) for a list of complementary learning material.
 
 ### Deep Learning
@@ -195,7 +195,7 @@ Resources | Source | Format
 
     - Learn how to create state of the art models using the Fastai Library with Part 1 of their course. We suggest taking both the Fastai and Deep Learning Specialization courses together since one is more focused on coding while the other is more focused on the theory and math behind it. While you're at it, follow Fastai's course with their book.
     - Both Chirs Maning's and Justin Johnson's (he used to teach the very popular CS231n at Stanford) courses are world class and will give you deep insights into the worlds of Natural Language Processing (NLP) and computer vision. Be sure to do the assignments since they have you code algorithms from scratch and give you a solid foundations to progress further. Both have updated YouTube videos of their 2021 course.
-    - The transformer architecture is widely used these days. To get a solid grap of what they are, be sure to read some of Jay Alammar's blogpost on the subject.
+    - The transformer architecture is widely used these days. To get a solid grasp of what they are, be sure to read some of Jay Alammar's blogpost on the subject.
     - Visit the [deep learning Resource Hub section](/resource_hub/deep_learning) for a list of complementary learning material.
 
 
@@ -203,7 +203,7 @@ Resources | Source | Format
 
 Working on machine learning for a company is usually a lot more involved than just running models inside a Jupyter notebook.
 
-The resources below will get you familiarized with the whole life-cyle of a machine learning system. You'll learn about formulating a problem, ingesting, labeling & cleaning data, building reusable pipelines for each step, deploying a model online and monitoring it, and much more. You'll gain preliminary notions about what it takes to put a model in production. As the field is maturing, knowing about these steps isn't optional anymore for anyone doing machine learning unless you're only doing R&D.
+The resources below will get you familiarized with the whole life-cycle of a machine learning system. You'll learn about formulating a problem, ingesting, labeling & cleaning data, building reusable pipelines for each step, deploying a model online and monitoring it, and much more. You'll gain preliminary notions about what it takes to put a model in production. As the field is maturing, knowing about these steps isn't optional anymore for anyone doing machine learning unless you're only doing R&D.
 
 **Topics covered**:
 
@@ -216,7 +216,7 @@ Resources | Source | Format
 
 !!! tip "Tips"
 
-    - Learn how to create experiment management scripts, unit tests, labelling, linting scripts, continuous integration/continuous development with CircleCI, model versioning, Docker and web deployment with the Full Stack Deep Learning course. The labs walk you through how to build a fully fledged hand writting text recognizer using Pytorch.
+    - Learn how to create experiment management scripts, unit tests, labelling, linting scripts, continuous integration/continuous development with CircleCI, model versioning, Docker and web deployment with the Full Stack Deep Learning course. The labs walk you through how to build a fully fledged hand writing text recognizer using Pytorch.
     - Design an ML production system end-to-end with Deeplearning.ai's Machine Learning Engineering for Production (MLOps) specialization. 
     - Read Goku Mohandas' [Made With ML](https://madewithml.com/#mlops), a course on deploying machine learning models in an automated, reproducible, and auditable manner.
     - Complement this course with Andriy's amazing Machine Learning Engineering book that will teach you about the whole life cycle of a machine learning project. 

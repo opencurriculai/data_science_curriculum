@@ -39,7 +39,7 @@ You are invited to read and participate to issues and pull requests by respondin
     3. __Difficulty__ - Is it catered towards absolute beginners or more towards people with existing experience?
     4. __Theory vs practicality__ - Fastai's Practical Deep Learning for Coders is considered, as its named suggests, very practical. For instance, in lecture 1, they already teach you how to create your own dataset and train an image classifier using their library. In lecture 2, you learn how to put it in production.
 
-    In general, the curriculum is built in a way that dimensions 1-4 don't overlap with other resources. For example, there is only 1 beginner course on learning Python. Both Deep Learning Specialization & Practical Deep Learning for Coders are introductions to deep learning, but the former will expose more math and theory while the other is more practical. There is also an introductory deep learning book recommendatation because the two previous examples were courses.
+    In general, the curriculum is built in a way that dimensions 1-4 don't overlap with other resources. For example, there is only 1 beginner course on learning Python. Both Deep Learning Specialization & Practical Deep Learning for Coders are introductions to deep learning, but the former will expose more math and theory while the other is more practical. There is also an introductory deep learning book recommendation because the two previous examples were courses.
 
     With that in mind, when you are submitting a resource, ask yourself the question if your resource overlaps or not. If not, is it better than the existing one? Why do you think that is the case?
 
@@ -49,5 +49,4 @@ You are invited to read and participate to issues and pull requests by respondin
 
     Generally, the scope of the content pertaining to the Resource Hub is much smaller than those in the curriculum. You will find that most links are single blogposts or videos that help elucidate a topic and present it in a unique and special way. Feel free to also suggest entire lectures or books as well if you think they'll complement the curriculum content well. Add a justification for why in your request.
 
-    If a topic is missing from the Resource Hub, ensure that the quality of your proposition is high and that is has truely helped you learn a concept. Please explain how that is the case in your request. If the topic is already covered, ask yourself what is unique about the way a concept is being explained or in what innovative way is it being presented.
-
+    If a topic is missing from the Resource Hub, ensure that the quality of your proposition is high and that is has truly helped you learn a concept. Please explain how that is the case in your request. If the topic is already covered, ask yourself what is unique about the way a concept is being explained or in what innovative way is it being presented.

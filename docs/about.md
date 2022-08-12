@@ -15,7 +15,7 @@ This curriculum is a first step towards that goal.
 
 ### Short Term
 
-Broadly, the short term mission is to democratize data science learning outside of the traditional education route. This is done in a few ways:
+Broadly, the short-term mission is to democratize data science learning outside of the traditional education route. This is done in a few ways:
 
 1. __Macro level__
 
@@ -24,7 +24,7 @@ Broadly, the short term mission is to democratize data science learning outside 
 
 2. __Micro level__
 
-    - *A resource hub*: Sometimes there is incredible content aimed at explaining, visualizing and understanding specific concepts. Knowing they exist and refering to them in conjunction with a course you are already taking can really help you progress faster. 
+    - *A resource hub*: Sometimes there is incredible content aimed at explaining, visualizing and understanding specific concepts. Knowing they exist and referring to them in conjunction with a course you are already taking can really help you progress faster. 
 
     !!! example "Examples"
 
@@ -41,7 +41,7 @@ All of the above are works in progress.
 
 ### Long Term
 
-- Ideally, every individual would be assessed in order to understand what they already know and what their objectives are. A personnalized curriculum would then be specifically tailored for them which would evolve with ones preferences. Assessments could also be taken to track progress.
+- Ideally, every individual would be assessed in order to understand what they already know and what their objectives are. A personalized curriculum would then be specifically tailored for them which would evolve with ones preferences. Assessments could also be taken to track progress.
 
 - People starting out in the field also need coaching, advice, guidance, support, and someone to help them view the bigger picture in order to reach their objectives.
 
@@ -67,19 +67,19 @@ If you're interested in helping out, have ideas about how to solve the issues, o
 
 ??? question "What are the requirements for starting?"
 
-    No programming experience is required and rough knowledge of high school math is expected. Also, for those who are committed to pursuing the curriculum end-to-end should already be extremely eager to learn data science, are self-driven and motivated. This requirement is crutial because a lot of the resources listed are self-paced. A high amount of discipline and will are therefore essential.
+    No programming experience is required and rough knowledge of high school math is expected. Also, for those who are committed to pursuing the curriculum end-to-end should already be extremely eager to learn data science, are self-driven and motivated. This requirement is crucial because a lot of the resources listed are self-paced. A high amount of discipline and will are therefore essential.
 
 ??? question "I am interested in a career in academia. Is this path for me?"
 
     The resources are chosen to prepare you to be up and running for an industry role. Learners interested in a career in academia and R&D should consider enrolling in a university instead.
 
-??? question "How long will the entire cirruculum take to complete?"
+??? question "How long will the entire curriculum take to complete?"
 
     This really depends on your existing background and if it is pursued full time or part time. Completing the curriculum end-to-end can easily take a year and a half full time if you have no prior background in data science. That said, the programme goes much deeper than a bootcamp and will give you more hands-on experience than most master’s degrees.
 
 ??? question "Won't I be disadvantaged during my job search compared to people graduating in data science with a formal degree?"
 
-    While it is true that some companies will instantly disqualify your candicacy because you don't have a college degree, there are more and more people comming into data science with atypical backgrounds that have no formal education in data science. A strong portfolio and a resume showcasing all the requisite skills can go a very long way, especially as the demand for data scientists continues to outpace the rate at which universities can produce them.
+    While it is true that some companies will instantly disqualify your candidacy because you don't have a college degree, there are more and more people coming into data science with atypical backgrounds that have no formal education in data science. A strong portfolio and a resume showcasing all the requisite skills can go a very long way, especially as the demand for data scientists continues to outpace the rate at which universities can produce them.
 
     But make no mistake, this path will require more effort, more dedication, and more self-discipline than if you were to enroll in a computer science or data science degree. While you can sign up for some courses & bootcamps during your journey to have some structure, most studying will be self-paced. You'll also need to spend the extra effort of thinking about and researching what to learn next (hopefully ODSC will help you on that front), and find ways to prove you have the knowledge required to be employed.
 
@@ -91,7 +91,7 @@ If you're interested in helping out, have ideas about how to solve the issues, o
 
 ??? question "Can I contribute to the project and add a resource I find valuable?"
 
-    Yes! Absolutely. This is one of the reasons why the cirruclum is on GitHub.
+    Yes! Absolutely. This is one of the reasons why the curriclum is on GitHub.
 
     There are two areas where you can make a resource request: 1. The curriculum, 2. The Resource Hub. Read about how you can contribute [here](contributing.md).
 
@@ -105,13 +105,13 @@ If you're interested in helping out, have ideas about how to solve the issues, o
 
     All university programs I had looked at were first of all, not cheap, and second, due to start only 8 months after I was prepared to make the leap. I was not willing to wait that long to start learning so I enrolled in a few online courses. After several months, I realized the cheer amount of outstanding resources that were at my disposal and the potential there was to build myself a world-class education if I hand picked the best content. I just needed to arrange and organize everything in a way that made sense for my learning goals and interests.
 
-    Through the pains and lessons learned during my time studying, through auditing tons of courses, books, online content, by looking at other poeple's curated resource lists, and insipired by amazing open-source initiatives, I have developped this repo; something I would have loved to have when I first started.
+    Through the pains and lessons learned during my time studying, through auditing tons of courses, books, online content, by looking at other people's curated resource lists, and insipired by amazing open-source initiatives, I have developped this repo; something I would have loved to have when I first started.
 
 ## Inspiration for the Project
 
 ??? question "How was this website built?"
 
-    A very simple approach was taken to build this website: we used a theme called [Material](https://squidfunk.github.io/mkdocs-material/) for [Mkdocs](https://www.mkdocs.org), which is a simpe static site generator intially geared towards building source code documentation. There are a lot of customization options available thanks to [Markdown extentions](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions).
+    A very simple approach was taken to build this website: we used a theme called [Material](https://squidfunk.github.io/mkdocs-material/) for [Mkdocs](https://www.mkdocs.org), which is a simple static site generator initially geared towards building source code documentation. There are a lot of customization options available thanks to [Markdown extentions](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions).
 
     The following website is completely open source and was an inspiration to some of the layout choices: [Binbash Leverage](https://leverage.binbash.com.ar/).
 
