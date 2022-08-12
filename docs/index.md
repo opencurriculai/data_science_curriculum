@@ -9,13 +9,43 @@ hide:
 <!-- <div style="margin: 0 0 0 0; margin-block-end: 0em; margin-bottom: -2.5em; color: #000000"> -->
 # Open Curriculai
 
+![panda on laptop](/assets/images/panda_on_laptop_400.png){ align=right width="280"}
+
 Welcome to Open Curriculai, an opinionated, constantly evolving, organized curation of top resources in the form of a curriculum and a resource hub, for people whose goal is to become a data scientist. It is intended to be a **complete education in data science** using online materials and a holistic approach to learning.
 
-![panda on laptop](/assets/images/panda_on_laptop_400.png){ align=right width="250"}
 
-We help you take responsibility of for our own learning.
+We help you take responsibility of your own learning.
 
 [View the Curriculum](curriculum.md){ .md-button .md-button--primary} [View the Resource Hub](resource_hub/index.md){ .md-button }
+
+
+
+### Target Audience
+
+???+ question "Who is this for?"
+
+    :white_check_mark: Anyone who wants to learn data science in a self-taught way, irrespective of what their current background is. The curriculum assumes no prior knowledge of data science or coding, and only basic knowledge of high school math.
+
+    :white_check_mark: People seeking a career change or want to apply data science in their current role.
+
+    :white_check_mark: Experienced practitioners looking to refine a specific skill, or that are in search of high-quality content.
+
+## Community & Learning Together
+
+Join our Discord :fontawesome-brands-discord: server to become part of a community of learners. Share resources, ask questions about different course options, a topic you are struggling to grasp, or even start and lead a study group.
+
+[Join the Discord Community](https://discord.gg/cfgtzBwDXR){ .md-button .md-button--primary}
+
+## Contribute
+
+![panda](/assets/images/traveling_panda.png){ align=right width="180" }
+
+!!! info "We encourage you to contribute in any way you want"
+
+    1. ⭐ Star our [GitHub](https://github.com/opencurriculai/data_science_curriculum) repo
+    2. ✍️ [Contribute to the Curriculum or the Resource Hub](/contributing.md)
+    3. :newspaper: Subscribe to get updates about newly added content
+    4. :material-share-variant: Share the curriculum to your friends & network 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
@@ -54,31 +84,3 @@ We help you take responsibility of for our own learning.
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
-### Target Audience
-
-???+ question "Who is this for?"
-
-    :white_check_mark: Anyone who wants to learn data science in a self-taught way, irrespective of what their current background is. The curriculum assumes no prior knowledge of data science or coding, and only basic knowledge of high school math.
-
-    :white_check_mark: People seeking a career change, or that want to apply data science in their current role.
-
-    :white_check_mark: Experienced practitioners looking to refine a specific skill, or that are in search of high-quality content.
-
-## Community & Learning Together
-
-Join our Discord :fontawesome-brands-discord: server to become part of a community of learners. Ask questions about different course options, where you should start or a topic you are struggling to grasp.
-
-[Join the Discord Community](https://discord.gg/cfgtzBwDXR){ .md-button .md-button--primary}
-
-## Contribute
-
-![panda](/assets/images/traveling_panda.png){ align=right width="180" }
-
-!!! info "We encourage you to contribute in any way you want"
-
-    1. ⭐ Star our [GitHub](https://github.com/opencurriculai/data_science_curriculum) repo
-    2. ✍️ [Contribute to the Curriculum or the Resource Hub](/contributing.md)
-    3. :newspaper: Subscribe to get updates about newly added content
-    4. :material-share-variant: Share the curriculum to your friends & network 
-

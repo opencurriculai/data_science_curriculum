@@ -213,6 +213,7 @@ Resources | Source | Format
 [Made With ML](https://madewithml.com/#mlops) | Made With ML | MLOps Course
 [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/) | Deeplearning.ai | Videos & coding exercises/projects
 [Machine Learning Engineering](http://www.mlebook.com/) ❤️| Andriy Burkov | Book
+[SQL](https://mode.com/sql-tutorial/) | Mode Analytics | Coding environment exercises
 
 !!! tip "Tips"
 
@@ -233,13 +234,13 @@ Resources | Source | Format
 [CS229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Standford - Andrew Ng | Videos & coding exercises/projects
 [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA) | Stanford | Videos & coding exercises/projects
 [MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://ali-design.github.io/deepcreativity/) | MIT | Videos & coding exercises/projects
-[SQL](https://mode.com/sql-tutorial/) | Mode Analytics | Coding environment exercises
+[Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | Stanford | Videos & coding exercises/projects
 
 !!! tip "Tips"
 
     - Learn to rebuild some Pytorch modules as well as part of the Fastai library from scratch with Part 2 of the course. This is also a great lecture in API design and software engineering. 
     - If you wish to specialize in machine learning more so than deep learning, look no further than Andrew Ng's famous machine learning lecture at Stanford. Take Stanford CS224W if you want to specialize in Graphs.
-    - If SQL is important for your projects and current/future job, become an expert with this SQL tutorial.
+    - Dive deep into SQL and databases with different mini-courses offered by Standford Online. Topics include advanced topics in SQL, database modeling & theory, relational databases, etc.  
 
 
 ### Extras

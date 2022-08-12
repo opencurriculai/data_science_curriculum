@@ -34,6 +34,7 @@ For all basic Linear Algebra concepts, refer to 3blue1brown's Essence of linear 
 Title | Description & Context | Source
 :-- | :--: | :--:
 [Principal Component Analysis 4 Dummies: Eigenvectors, Eigenvalues and Dimension Reduction](https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/) | Intuition of how PCA works | George Dallas
+[A friendly introduction to Principal Component Analysis](https://peterbloem.nl/blog/pca) | Full details on how PCA works. Part of a series with Eigenvectors, SVD, etc. | peterbloem.nl
 
 ## Calculus
 

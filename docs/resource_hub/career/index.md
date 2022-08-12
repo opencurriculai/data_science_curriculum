@@ -9,6 +9,7 @@ Title | Description & Context | Source
 [12 things I wish I’d known before starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e) | 
 [How to Build a Career in AI](https://read.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth/) | Short blog series on how to build a career in AI (4 parts) | Andrew Ng
 [Is Data Scientist Still the Sexiest Job of the 21st Century?](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) | Overview of trends and evolution of data science profession over the years | Harward Business Review
+[Talk: Accelerating Your AI Career](https://www.youtube.com/watch?v=D1W0kS40otM) | Talk with Andrew Ng and others about tips to advance or break into AI | Youtube
 
 
 ## Job Interview Prep

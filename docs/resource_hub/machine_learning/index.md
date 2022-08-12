@@ -2,6 +2,12 @@
 
 All things data science and machine learning.
 
+## General
+
+Title | Description & Context | Source
+:-- | :--: | :--:
+[Machine Learning Audio Course](https://ocdevel.com/mlg) | If you're into podcasts, check this great audio course about machine learning | OCDLevel.com
+
 ## Supervised Learning
 
 Title | Description & Context | Source
@@ -18,6 +24,7 @@ Title | Description & Context | Source
 :-- | :--: | :--:
 [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/) | Introduction to K-Means but also other clustering algorithms | pinecone.io
 [Clustering with Scikit-Learn in Python](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python) | Learn about K-means, DBSCAN, text clustering with K-means | Programming Historian
+[Clustering Algorithms](https://scikit-learn.org/stable/modules/clustering.html) Sklearn's documentation has great explanations of all the most populair clustering algorithms | Sklearn
 
 ## Optimization
 

@@ -8,11 +8,10 @@ hide:
 
 ![contributing panda](/assets/images/contributing_panda_400.png){ align=right width="300" }
 
-
 Thank you for wanting to contribute! Open Curriculai would love your help to improve its coverage, quality and usefulness. We value contributions both to the Curriculum and to the Resource Hub.
 You can contribute by either sending a pull request, or creating an issue.
 
-If you're new to Github :octicons-mark-github-16:, read these two links - [pull requests](https://github.com/firstcontributions/first-contributions), [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - to understand how to create them, and what their difference is.
+If you're new to Github :octicons-mark-github-16:, read these two links - [pull requests](https://github.com/firstcontributions/first-contributions), [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) - to understand how to create them, and what their differences are.
 
 Please use pull requests for minor changes such a typos, spelling errors, a missing URL link, etc.
 
