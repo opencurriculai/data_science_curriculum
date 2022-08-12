@@ -20,7 +20,7 @@ We help you take responsibility of for our own learning.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:16px Roboto,Arial,sans-serif;  width:550px;}
+    #mc_embed_signup{background:#fff; clear:left; font:0.9em Roboto,Arial,sans-serif;  width:550px;}
     #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
     #mc_embed_signup .button{background-color:#009485; border-radius:0.1em}
     #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
