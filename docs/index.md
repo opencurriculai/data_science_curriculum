@@ -50,11 +50,13 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:0.9em Roboto,Arial,sans-serif;  width:550px;}
+    #mc_embed_signup{background:#fff; clear:left; font:0.9em Roboto,Arial,sans-serif;  width:600px;}
     #mc_embed_signup h2{font-size:1.56em}
     #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
-    #mc_embed_signup .button{background-color:#009485; border-radius:0.1em}
+    #mc_embed_signup .button{background-color:#009485; font-size:1em; color:white; border-radius:0.1em; padding:0 22px; margin:0 5px 10px 0; height:32px; 
+                         transition:all 0.23s ease-in-out 0s; cursor:pointer}
     #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
+    #mc_embed_signup .required-email{border: 1px solid grey; border-radius: 4px; padding: 6px 10px; width:40em; margin: 8px 0; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -64,10 +66,14 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
 	<h2>Subscribe to get updates about newly added content</h2>
 <!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk"></span>
+    <div class="mc-input-header">
+	    <label for="mce-EMAIL">Email Address  <span class="asterisk"></span>
+    </div>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+    <div class="mc-input-field">
+	    <input type="email" value="" name="EMAIL" class="required-email" id="mce-EMAIL">
+	    <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+    </div>
 </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
