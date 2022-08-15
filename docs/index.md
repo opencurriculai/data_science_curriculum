@@ -51,6 +51,7 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
     #mc_embed_signup{background:#fff; clear:left; font:0.9em Roboto,Arial,sans-serif;  width:550px;}
+    #mc_embed_signup h2{font-size:1.56em}
     #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
     #mc_embed_signup .button{background-color:#009485; border-radius:0.1em}
     #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
