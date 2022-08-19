@@ -73,11 +73,13 @@ Resources | Source | Format
 
 ### Core Data Science
 
-If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time)** is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model. This intensive bootcamp, also available part time, will give you the big picture of what data science encompasses end to end: math theory, data wrangling, data visualization, programming inside an IDE, Git, machine learning, deep learning, and data engineering.
+If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time)** is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model.
 
-If you’re not willing to spend as much money, you’re still in luck. Andrew Ng’s notorious [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning) just got updated! It covers more material than the its predecessor (neural nets are now included) and is a unique opportunity to get quality education for cheap. Take this course as well as Udacity’s data Analyst Nanodegree, and you’re guaranteed to start off with solid foundations.
+If you’re not willing to spend as much money, you’re still in luck. Andrew Ng’s notorious [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning) just got updated! It covers more material than the its predecessor (neural nets are now included) and is very high quality. We recommend taking this course after Udacity’s data Analyst Nanodegree.
 
-Next, check out Fastai's Introduction to Machine Learning for Coders. Our recommendation is to **just watching the first 6 lectures which focus on tree-based models**. The rest of the videos are on deep learning which is better covered in their more recent course listed below. Although this content is almost 5 years old, don’t let that discourage you from watching it: it is taught by one of the most respected data scientists in the world - [Jeremy Howard](https://www.linkedin.com/in/howardjeremy/?originalSubdomain=au) - and is full of gems.
+Read the indispensible An Introduction to Statistical Learning, 2nd Edition. This book has been updated in 2021 and has been a solid reference in the community for years. We suggest doing the proposed exercises in Python, and not in R.  
+
+Next, have a look at Fastai's lecture on Random Forests (keep the other lectures for when you're studying deep learning). Decision trees and Random Forests are a great baseline for almost any situation and deserve special attention. Jeremie Howard explains them brilliantly.
 
 Pair the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as Wes McKinney’s - creator of pandas library - book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online). One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
 
@@ -95,6 +97,8 @@ Pair the above with Andriy Burkov’s famous and succinct The Hundred-Page Machi
 Resources | Source | Format
 :-- | :--: | :--:
 [Data Science Bootcamp](https://www.lewagon.com/data-science-course/full-time) ❤️ | Le Wagon | In person / remote lectures - 9 weeks
+[An Introduction to Statistical Learning 2nd Edition](https://www.statlearning.com/) | G. James, D. Witten, T. Hastie, R. Tibshirani | Book
+[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) | Udacity | Videos & coding exercises/projects
 [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus) | Coursera | Videos & coding exercises/projects
 [Introduction to Machine Learning for Coders - Fastai](http://course18.fast.ai/ml)  ❤️ | U of San Francisco | Videos & coding exercises/projects
 [The Hundred-Page Machine Learning Book](http://themlbook.com/) ❤️ | Andriy Burkov | Book
@@ -103,7 +107,8 @@ Resources | Source | Format
 
 !!! tip "Tips"
 
-    - Gain experience in the most important data science related tasks by taking Le Wagon's bootcamp. For a cheaper version look at Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) combined with Coursera's [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus)
+    - Gain experience in the most important data science related tasks by taking Le Wagon's bootcamp. For a cheaper alternative look at Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) combined with Coursera's [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus)
+    - An Intro to Statistical Learning is an accessible overview of the field and is widely used in many undergraduate and graduate courses all over the world.
     - Get a practical approach to machine learning with tree-based models and model interpretation with Fastai.
     - Complement your learning with the very well written and concise Hundred Page Machine Learning Book.
     - Python for data analysis book just got updated to its 3rd edition and is now fully available online. It is a practical, modern introduction for manipulating, processing, cleaning, and visualizing datasets in Python. It is a great way to get better at pandas, Numpy, and matplotlib which are fundamental to any data scientist.

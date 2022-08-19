@@ -55,6 +55,7 @@ Join our Discord :fontawesome-brands-discord: server to become part of a communi
     #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
     #mc_embed_signup .button{background-color:#009485; font-size:1em; color:white; border-radius:0.1em; padding:0 22px; margin:0 5px 10px 0; height:32px; 
                          transition:all 0.23s ease-in-out 0s; cursor:pointer}
+    #mc_embed_signup .button:hover{background-color:#526cfe}
     #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
     #mc_embed_signup .required-email{border: 1px solid grey; border-radius: 4px; padding: 6px 10px; width:40em; margin: 8px 0; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.

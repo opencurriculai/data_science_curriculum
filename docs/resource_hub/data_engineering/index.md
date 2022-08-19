@@ -6,6 +6,10 @@ For an extensive list of data engineering resources, refer to Reddit's [Data Eng
 
 For an extensive list of MLOps resources, refer to [Awesome MLOps](https://github.com/visenger/awesome-mlops).
 
+## Books
+
+[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | Learn a holistic approach to designing ML systems | Chip Huyen
+
 ## Programming
 
 Title | Description & Context | Source
