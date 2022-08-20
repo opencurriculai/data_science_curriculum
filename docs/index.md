@@ -13,9 +13,6 @@ hide:
 
 Welcome to Open Curriculai, an opinionated, constantly evolving, organized curation of top resources in the form of a curriculum and a resource hub, for people whose goal is to become a data scientist. It is intended to be a **complete education in data science** using online materials and a holistic approach to learning.
 
-
-We help you take responsibility of your own learning.
-
 [View the Curriculum](curriculum.md){ .md-button .md-button--primary} [View the Resource Hub](resource_hub/index.md){ .md-button }
 
 
