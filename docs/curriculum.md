@@ -79,9 +79,9 @@ If you’re not willing to spend as much money, you’re still in luck. Andrew N
 
 Read the indispensible An Introduction to Statistical Learning, 2nd Edition. This book has been updated in 2021 and has been a solid reference in the community for years. We suggest doing the proposed exercises in Python, and not in R.  
 
-Next, have a look at Fastai's lecture on Random Forests (keep the other lectures for when you're studying deep learning). Decision trees and Random Forests are a great baseline for almost any situation and deserve special attention. Jeremie Howard explains them brilliantly.
+Next, have a look at Fastai's lesson on Random Forests (keep the other lessons for when you're studying deep learning). Decision trees and Random Forests are a great baseline for almost any situation and deserve special attention. Jeremie Howard explains them brilliantly.
 
-Pair the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as Wes McKinney’s - creator of pandas library - book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online). One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
+Consolidate all of the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as the book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online) by Wes McKinney’s, creator of the pandas library. One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
 
 **Topics covered**:
 `Data wrangling`
@@ -100,7 +100,7 @@ Resources | Source | Format
 [An Introduction to Statistical Learning 2nd Edition](https://www.statlearning.com/) | G. James, D. Witten, T. Hastie, R. Tibshirani | Book
 [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) | Udacity | Videos & coding exercises/projects
 [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus) | Coursera | Videos & coding exercises/projects
-[Introduction to Machine Learning for Coders - Fastai](http://course18.fast.ai/ml)  ❤️ | U of San Francisco | Videos & coding exercises/projects
+[Lesson 6: Random Forests - Fastai](https://course.fast.ai/Lessons/lesson6.html)  ❤️ | U of Queensland | Videos & coding exercises/projects
 [The Hundred-Page Machine Learning Book](http://themlbook.com/) ❤️ | Andriy Burkov | Book
 [Python for Data Analysis, 3rd Edition](https://wesmckinney.com/book/) | Wes McKinney | Book
 
