@@ -21,15 +21,3 @@ Title | Description & Context | Source
 :-- | :--: | :--:
 [The illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Detailed explanation of how Transformers work testing to see what happens if description is long | Jay Alammar
 [Self Attention](https://learning.rasa.com/transformers/self-attention/) | Short video about self attention | Rasa Learning Center 
-
-## NLP
-
-Title | Description & Context | Source
-:-- | :--: | :--:
-[The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) | Intro to word2vec algorithm and the concept of embeddings | Jay Alammar
-
-## Computer Vision
-
-Title | Description & Context | Source
-:-- | :--: | :--:
-[Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks) | Brief visuals & explanations of convolutions | Stanford CS230

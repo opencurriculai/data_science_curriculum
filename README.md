@@ -12,8 +12,7 @@ Open Curriculai's data science curriculum is a curation of resources that covers
 
 ## Resource Hub
 
-The resource hub contains complementary content to help consolidate concepts learned in various courses and books.
-
+The resource hub contains hight quality, hand-picked resources that are organized by topic. 
 ## Approach
 
 Only resources that are judged to be the best on the internet are included. It is a holistic approach to learning data science: there are a lot of resources on how to learn, how to thinking about your career, who to follow on social media, where to find study groups, etc. 

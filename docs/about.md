@@ -15,7 +15,7 @@ This curriculum is a first step towards that goal.
 
 ### Short Term
 
-Broadly, the short-term mission is to democratize data science learning outside of the traditional education route. This is done in a few ways:
+Broadly, the short-term mission is to democratize data science learning outside of the traditional education route by curating and organizing top resources from the internet. This is done in a few ways:
 
 1. __Macro level__
 
@@ -31,7 +31,7 @@ Broadly, the short-term mission is to democratize data science learning outside 
         - This [website that helps visualize probability basics](https://seeing-theory.brown.edu/basic-probability/index.html)
         - This [small essay series by Andrew Ng on how to build a career in AI](https://read.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth/).
 
-    - *A community*: a growing community of learners & coaches to help each other along the way, to organize study groups, etc.
+    - *A community*: TBD! <!--  a growing community of learners & coaches to help each other along the way, to organize study groups, etc. -->
 
 3. __Open Source__
 

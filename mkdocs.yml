@@ -42,8 +42,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/opencurriculai/data_science_curriculum
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/cfgtzBwDXR
+    # - icon: fontawesome/brands/discord
+    #   link: https://discord.gg/cfgtzBwDXR
 nav:
   - Home: 
     - Open Curriculai: "index.md"
@@ -58,15 +58,24 @@ nav:
     - About: "about.md"
   - Resource Hub:
     - Overview: "resource_hub/index.md"
+    - NLP & LLMs: "resource_hub/nlp/index.md"
+    - MLOps: "resource_hub/mlops/index.md"
+    - Recommender Systems: "resource_hub/recsys/index.md"
+    - Forecasting: "resource_hub/forecasting/index.md"
+    - Search: "resource_hub/search/index.md"
+    - Computer Vision: "resource_hub/computer_vision/index.md"
+    - Causal Inference: "resource_hub/causal_inference/index.md"
+    - Data Visualization: "resource_hub/data_visualization/index.md"
+    - AB Testing: "resource_hub/ab_testing/index.md"
     - Math: "resource_hub/math/index.md"
     - Machine Learning: "resource_hub/machine_learning/index.md"
     - Deep Learning: "resource_hub/deep_learning/index.md"
-    - Data Engineering & MLOps: "resource_hub/data_engineering/index.md"
-    - Tool Tutorials: "resource_hub/tool_tutorials/index.md"
+    - Data Engineering: "resource_hub/data_engineering/index.md"
+    # - Tool Tutorials: "resource_hub/tool_tutorials/index.md"
     - Career: "resource_hub/career/index.md"
-    - Social: "resource_hub/social/index.md"
-    - Meta Learning: "resource_hub/meta_learning/index.md"
-    - Other Curations: "resource_hub/other_curations/index.md"
+    # - Social: "resource_hub/social/index.md"
+    - Learning: "resource_hub/learning/index.md"
+    # - Other Curations: "resource_hub/other_curations/index.md"
   - Contributing: "contributing.md"
   - About: "about.md"
 

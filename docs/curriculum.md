@@ -6,32 +6,8 @@
 
 The curriculum presented here curates and organizes resources covering all core aspects of data science. It also includes content on how to learn effectively, mentions of influencers to follow, conferences to attend, links to important books, blogposts, videos, Youtube channels, and encourages one to learn & collaborate with a community of students by means of its own [:fontawesome-brands-discord: Discord channel](https://discord.gg/cfgtzBwDXR) or through joining other existing communities.
 
-Visit the [Resource Hub](/resource_hub) for complementary material on all topics.
+Visit the [Resource Hub](/resource_hub/machine_learning) for complementary material on all topics.
 
-!!! info "The challenges of learning data science"
-
-    - There is an unfathomable amount of online resources & books from which to choose from. Where do you start your learning journey? What specific content should you look at? This decision should depend on the quality of the course/book you look at, but also on your current background, education and future goals.
-    - How do you know if the course/book you are about to engage in is of high quality? How do you choose between two or more seemingly equivalent, highly rated courses?
-    - There is a lack of best in class, frequently updated, curated resources that organizes material found online into a long term learning plan that covers all aspects of data science.
-    - A lot of popular curriculums only suggest content from their own platforms. The truth is, the best content on each subject comes from a variety of different sources and comes in many different formats.
-    - Often times articles that curate resources suggest too many options from which to choose from. It often resembles a course dump, and it's up to the reader to "guess" which ones are the most relevant for them.
-    - Data science is a mix of math, programming, and domain knowledge. How do you know when enough math is enough, or how much software engineering knowledge is needed to get hired?
-    - Bootcamps inaccurately make the promise that their students will get hired right after graduating. In most cases, this is only true for people with programming or mathematical backgrounds prior to enrolling. With that in mind, what steps should be taken prior and after taking a bootcamp?
-
-!!! info "Objectives of Open Curriculai"
-
-    The content presented here is an attempt and a first iteration to help people get a better grasp as to how to navigate difficulties mentioned above. Open curricula refers to the fact that the initiative is open source, and that everyone has their optimal curriculum to follow - hence the plural form of the word "Curriculum". 
-    
-    __Main objectives__:
-
-    - Inspire people who have never programmed but are interested in data science to take the leap and dive into the field. 
-    - Assist anyone from total beginner, to bootcamp graduate, and everyone in between, to deepen their knowledge in the field so they can get hired as a data analyst, a data scientist, or a machine learning scientist.
-    - Attract experienced practitioners & teachers that are either looking for exceptional data science material or to help and mentor beginners.
-    - Incentivise people to discover and work on real world practical projects they are passionate about.
-    - Make it easy to find like-minded individuals to connect, study or work with by joining the community.
-    - Encourage people to develop skills such as public speaking, writing, creating presentations, and leadership.
-
-For more information, make sure to read the [About page](about.md).
 
 ## Learning Path Example
 
@@ -57,7 +33,6 @@ Resources | Source | Format
 [Programming Environment Setup](https://github.com/lewagon/data-setup) | Le Wagon | Tutorial
 [CS50 introduction to programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python) | Harvard | Videos & coding exercises/projects
 [CS50 introduction to Computer Science](https://cs50.harvard.edu/college/2022/spring/) | Harvard | Videos & coding exercises/projects
-[Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) | Udacity | Videos & coding exercises/projects
 [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) ❤️ | Coursera | Videos and quizzes
 [A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/) | Barbara Oakley | Book |
 [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) ❤️ |  Andy Hunt | Book
@@ -73,15 +48,13 @@ Resources | Source | Format
 
 ### Core Data Science
 
-If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time)** is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model.
+If you can afford a bootcamp, [Le Wagon](https://www.lewagon.com/data-science-course/full-time) is among the best data science ones out there. There is a heavy emphasis on practical exercises, the curriculum is constantly evolving with the latest libraries and technologies, and the final project involves deploying your own machine learning model.
 
-If you’re not willing to spend as much money, you’re still in luck. Andrew Ng’s notorious [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning) just got updated! It covers more material than the its predecessor (neural nets are now included) and is very high quality. We recommend taking this course after Udacity’s data Analyst Nanodegree.
+If bootcamps are too expensive, you can replace it by first taking Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002), followed by Andrew Ng’s [machine learning course on Coursera](https://www.coursera.org/learn/machine-learning).
 
 Read the indispensible An Introduction to Statistical Learning, 2nd Edition. This book has been updated in 2021 and has been a solid reference in the community for years. We suggest doing the proposed exercises in Python, and not in R.  
 
-Next, have a look at Fastai's lesson on Random Forests (keep the other lessons for when you're studying deep learning). Decision trees and Random Forests are a great baseline for almost any situation and deserve special attention. Jeremie Howard explains them brilliantly.
-
-Consolidate all of the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as the book: Python for Data Analysis (make sure you're reading the latest version, V3, fully available online) by Wes McKinney’s, creator of the pandas library. One is more focused on theory, while the other is hands-on with Python. They are complementary and will solidify your understanding of all concepts covered so far.
+Consolidate all of the above with Andriy Burkov’s famous and succinct The Hundred-Page Machine Learning Book, as well as the book: Python for Data Analysis (make sure you're reading the latest version, V3, which is free and fully available online) by Wes McKinney’s, creator of the pandas library. These two books are complementary: ene is more focused on theory, while the other is hands-on with Python.
 
 **Topics covered**:
 `Data wrangling`
@@ -100,16 +73,14 @@ Resources | Source | Format
 [An Introduction to Statistical Learning 2nd Edition](https://www.statlearning.com/) | G. James, D. Witten, T. Hastie, R. Tibshirani | Book
 [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) | Udacity | Videos & coding exercises/projects
 [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus) | Coursera | Videos & coding exercises/projects
-[Lesson 6: Random Forests - Fastai](https://course.fast.ai/Lessons/lesson6.html)  ❤️ | U of Queensland | Videos & coding exercises/projects
 [The Hundred-Page Machine Learning Book](http://themlbook.com/) ❤️ | Andriy Burkov | Book
 [Python for Data Analysis, 3rd Edition](https://wesmckinney.com/book/) | Wes McKinney | Book
 
 
 !!! tip "Tips"
 
-    - Gain experience in the most important data science related tasks by taking Le Wagon's bootcamp. For a cheaper alternative look at Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) combined with Coursera's [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus)
+    - Gain end-to-end experience in ML with Le Wagon's bootcamp. For a cheaper alternative look at Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) combined with Coursera's [Machine Learning Course](https://www.coursera.org/learn/machine-learning#syllabus)
     - An Intro to Statistical Learning is an accessible overview of the field and is widely used in many undergraduate and graduate courses all over the world.
-    - Get a practical approach to machine learning with tree-based models and model interpretation with Fastai.
     - Complement your learning with the very well written and concise Hundred Page Machine Learning Book.
     - Python for data analysis book just got updated to its 3rd edition and is now fully available online. It is a practical, modern introduction for manipulating, processing, cleaning, and visualizing datasets in Python. It is a great way to get better at pandas, Numpy, and matplotlib which are fundamental to any data scientist.
     - Visit the [machine learning Resource Hub section](/resource_hub/machine_learning) for a list of complementary learning material.
@@ -192,23 +163,22 @@ Resources | Source | Format
 [Practical Deep Learning for Coders - Part 1 (v5)](https://course.fast.ai/) ❤️ | U of San Francisco | Videos & coding exercises/projects
 [Fastai Book](https://github.com/fastai/fastbook) | Jeremy Howard, Sylvain Gugger | Book
 [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) ❤️ | Coursera - Andrew Ng | Videos & coding exercises/projects
-[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) ❤️ | Stanford - Chris Manning | Videos & coding exercises/projects
-[EECS 498-007 / 598-005 - Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html) ❤️ | U of Michigan - Justin Johnson | Videos & coding exercises/projects
-[Jay Alammar's blog](https://jalammar.github.io/) | Jay Alammar | Blogposts
+[The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) | Andrej Karpathy | Video
+[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) | Jay Alammar | Blogpost
 
 !!! tip "Tips"
 
     - Learn how to create state of the art models using the Fastai Library with Part 1 of their course. We suggest taking both the Fastai and Deep Learning Specialization courses together since one is more focused on coding while the other is more focused on the theory and math behind it. While you're at it, follow Fastai's course with their book.
-    - Both Chirs Maning's and Justin Johnson's (he used to teach the very popular CS231n at Stanford) courses are world class and will give you deep insights into the worlds of Natural Language Processing (NLP) and computer vision. Be sure to do the assignments since they have you code algorithms from scratch and give you a solid foundations to progress further. Both have updated YouTube videos of their 2021 course.
-    - The transformer architecture is widely used these days. To get a solid grasp of what they are, be sure to read some of Jay Alammar's blogpost on the subject.
+    - Andrej Karpathy's video on micrograd is a great introduction to neural networks and backpropagation.
+    - The transformer architecture is widely used these days. To get a solid grasp of what they are, be sure to read Jay Alammar's blogpost on the subject.
     - Visit the [deep learning Resource Hub section](/resource_hub/deep_learning) for a list of complementary learning material.
 
 
-### Data Engineering & MLOps
+### MLOps & Data Engineering Primer
 
 Working on machine learning for a company is usually a lot more involved than just running models inside a Jupyter notebook.
 
-The resources below will get you familiarized with the whole life-cycle of a machine learning system. You'll learn about formulating a problem, ingesting, labeling & cleaning data, building reusable pipelines for each step, deploying a model online and monitoring it, and much more. You'll gain preliminary notions about what it takes to put a model in production. As the field is maturing, knowing about these steps isn't optional anymore for anyone doing machine learning unless you're only doing R&D.
+The resources below will get you familiarized with the whole life-cycle of a machine learning system, and the data engineering required to get your data ready. You'll learn about formulating a problem, ingesting, labeling & cleaning data, building reusable pipelines for each step, deploying models online and monitoring them, and much more. You'll gain preliminary notions about what it takes to put a model in production. As the field is maturing, knowing about these steps isn't optional anymore for anyone doing machine learning unless you're only doing R&D.
 
 **Topics covered**:
 
@@ -217,7 +187,7 @@ Resources | Source | Format
 [Full Stack Deep Learning](https://fullstackdeeplearning.com//) ❤️| UC Berkeley | Videos & coding exercises/projects
 [Made With ML](https://madewithml.com/#mlops) | Made With ML | MLOps Course
 [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/) | Deeplearning.ai | Videos & coding exercises/projects
-[Machine Learning Engineering](http://www.mlebook.com/) ❤️| Andriy Burkov | Book
+[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) ❤️| Chip Huyen | Book
 [SQL](https://mode.com/sql-tutorial/) | Mode Analytics | Coding environment exercises
 
 !!! tip "Tips"
@@ -225,27 +195,9 @@ Resources | Source | Format
     - Learn how to create experiment management scripts, unit tests, labelling, linting scripts, continuous integration/continuous development with CircleCI, model versioning, Docker and web deployment with the Full Stack Deep Learning course. The labs walk you through how to build a fully fledged hand writing text recognizer using Pytorch.
     - Design an ML production system end-to-end with Deeplearning.ai's Machine Learning Engineering for Production (MLOps) specialization. 
     - Read Goku Mohandas' [Made With ML](https://madewithml.com/#mlops), a course on deploying machine learning models in an automated, reproducible, and auditable manner.
-    - Complement this course with Andriy's amazing Machine Learning Engineering book that will teach you about the whole life cycle of a machine learning project. 
+    - Complement this course with Chip's amazing Designing Machine Learning Systems book that will teach you about the whole life cycle of a machine learning project. 
     - Go back to some of the models you have built for your projects and deploy them!
     - Visit the [data engineering Resource Hub section](/resource_hub/data_engineering) for a list of complementary learning material.
-
-### Optional Courses
-
-The following are courses should be taken depending on the outcome you want to achieve as a data scientist.
-
-Resources | Source | Format
-:-- | :--: | :--:
-[Practical Deep Learning for Coders - Part 2](https://course.fast.ai/) ❤️ | U of San Francisco | Videos & coding exercises/projects
-[CS229 - Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Standford - Andrew Ng | Videos & coding exercises/projects
-[Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA) | Stanford | Videos & coding exercises/projects
-[MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://ali-design.github.io/deepcreativity/) | MIT | Videos & coding exercises/projects
-[Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | Stanford | Videos & coding exercises/projects
-
-!!! tip "Tips"
-
-    - Learn to rebuild some Pytorch modules as well as part of the Fastai library from scratch with Part 2 of the course. This is also a great lecture in API design and software engineering. 
-    - If you wish to specialize in machine learning more so than deep learning, look no further than Andrew Ng's famous machine learning lecture at Stanford. Take Stanford CS224W if you want to specialize in Graphs.
-    - Dive deep into SQL and databases with different mini-courses offered by Standford Online. Topics include advanced topics in SQL, database modeling & theory, relational databases, etc.  
 
 
 ### Extras
@@ -258,7 +210,7 @@ In addition to all of the above, we suggest doing the following:
 - Attend conferences. One we highly suggest going to is [Pycon](https://pycon.org/), even if that means spending a bit of money to attend and travelling to a host city. The value you'll get from it will be worth it in our experience. It is a way for you to be inspired by all that is happening in the world of Python, engineering, and machine learning. Alternatively, you can get an online only ticket for cheaper.
 - Participate in a Kaggle competition. Find a competition you're interested in joining - look for ones that are currently open/soon to open. Find teammates to work with, and start coding! Visit the Code section of the competition to read other competitor's notebooks. There are always people sharing interesting work.
 - Participate in Hackathons. Keep an eye out for these events happening in your city, or look on meetup.com to find them.
-- Actively look for and join communities on Reddit, Discord, and Slack. For instance, subscribe to Reddit's /r/learnmarchinelearning and /r/machinelearning subreddits. Join discord servers to find study groups so that you're not learning alone. Here's the link to our community's [:fontawesome-brands-discord: Discord](https://discord.gg/cfgtzBwDXR)
+- Actively look for and join communities on Reddit, Discord, and Slack. For instance, subscribe to Reddit's /r/learnmarchinelearning and /r/machinelearning subreddits. Join discord servers to find study groups so that you're not learning alone.
 - Put yourself out there and start writing! Create a personal blog and write articles about what you learned. Your target audience should be people in the same situation you were in 6 months / 1 year ago. 
 - Find a meetup group and ask if you can present a subject you've been working on. Do the same within a bunch of different study groups. This will help your oral presentation skills.
 - Keep an eye out for recruiting events in your area. Companies are always participating in these events.
@@ -281,45 +233,3 @@ As a rule of thumb, you can be sure to trust the quality of the following conten
 
 
 If you want to help improve the curriculum and think you have a good resource to share, read about how you can contribute [here](contributing.md).
-
-!!! info "**Disclaimer"
-
-    Julien, the founder, is a freelance teacher at Le Wagon's data science bootcamp. That said, they are not paying him to be included here. We decided to add the bootcamp to the curriculum because of how valuable we think it is.
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:16px Roboto,Arial,sans-serif;  width:550px;}
-    #mc_embed_signup form{padding:0; padding-bottom: 1.5em; padding-top: 1.5em}
-    #mc_embed_signup .button{background-color:#009485; border-radius:0.1em}
-    #mc_embed_signup .mc-field-group{padding: 0 0 0.5em}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://github.us7.list-manage.com/subscribe/post?u=ae41f2ddfe55ea4c7afc9bc02&amp;id=7dfecd57b4&amp;f_id=0000e9e3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to get updates about newly added content</h2>
-<!-- <div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk"></span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-</div>
-	<div id="mce-responses" class="clear foot">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ae41f2ddfe55ea4c7afc9bc02_7dfecd57b4" tabindex="-1" value=""></div>
-        <div class="optionalParent">
-            <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <!-- <p class="brandingLogo"><a href="http://eepurl.com/h76kpX" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p> -->
-            </div>
-        </div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
